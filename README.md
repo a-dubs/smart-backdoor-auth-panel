@@ -5,9 +5,15 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 <br>
 
 ## Summary
- - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
- - This template will expedite the creation and maintenance of all my various projects' repositories.
- - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
+ - Leverages NRF24 radio modules to connect to my MySensors network which is controlled by my Home Assistant smart home ecosystem
+ - Features several methods of authentication that allow for various levels of convenience and security, but regardless of which methods are used, two must be used for any given authentication attempt, creating a 2FA system to significantly enhance security. 
+ - At certain hours of the day, such as 2am to 6am, can enhance security requirements by disabling some less secure authentication methods
+ - Authentication methods will include:
+   - 10+ digit pin entered via physical keypad
+   - rfid key
+   - fingerprint scanner
+   - automatic geolocation / proximity detection
+
 
 <br>
 
