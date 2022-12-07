@@ -1,6 +1,6 @@
-# Boilerplate for Projects on GitHub
+# Smart Backdoor Auth Panel
 
-This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
+3D-Printed access panel that will provide authentication for my custom smart deadbolt  
 
 <br>
 
