@@ -1,6 +1,6 @@
 # Smart Backdoor Auth Panel
 
-3D-Printed access panel that will provide authentication for my custom smart deadbolt  
+3D-Printed access panel that will provide authentication for my custom smart deadbolt
 
 <br>
 
@@ -12,8 +12,6 @@
    - 10+ digit pin entered via physical keypad
    - rfid key
    - fingerprint scanner
-   - automatic geolocation / proximity detection
-
 
 <br>
 
@@ -25,8 +23,8 @@
 
 ## Project Metadata
 
-**Project Status** : (Active, Inactive, Archived)  
-**Project Progress** : (Concept, In Progress, Functional, Complete)
+**Project Status** : Active 
+**Project Progress** : In Progress
 
-**Project dates** : Jan '22 - Present  
+**Project dates** : Nov '21 - Present  
 
