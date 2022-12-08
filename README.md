@@ -17,8 +17,20 @@
 
 ## Image Gallery
 
-### Placeholder Image (This is the image's caption/label)
-![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please_replace_me_I_am_begging_you.jpg)
+### 3D Model of Auth Panel w/ Cover Open
+![3D Model of Auth Panel w/ Cover Open](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_open.png)
+<br>
+
+### 3D Model of Auth Panel w/ Cover Closed
+![3D Model of Auth Panel w/ Cover Closed](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_closed.png)
+<br>
+
+### 3D Model of Auth Panel w/ Clear Cover
+![3D Model of Auth Panel w/ Clear Cover](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_clear_cover.png)
+<br>
+
+### 3D Model of the Waterproofing Seals/O-Rings
+![3D Model of the Waterproofing Seals/O-Rings](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_waterproofing.png)
 <br>
 
 ## Project Metadata
