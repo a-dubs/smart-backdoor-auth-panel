@@ -21,17 +21,17 @@
 ![3D Model of Auth Panel w/ Cover Open](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_open.png)
 <br>
 
-### 3D Model of Auth Panel w/ Cover Closed
-![3D Model of Auth Panel w/ Cover Closed](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_closed.png)
-<br>
-
 ### 3D Model of Auth Panel w/ Clear Cover
 ![3D Model of Auth Panel w/ Clear Cover](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_clear_cover.png)
 <br>
 
 ### 3D Model of the Waterproofing Seals/O-Rings
 ![3D Model of the Waterproofing Seals/O-Rings](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_waterproofing.png)
+
+### 3D Model of Auth Panel w/ Cover Closed
+![3D Model of Auth Panel w/ Cover Closed](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_closed.png)
 <br>
+
 
 ## Project Metadata
 
