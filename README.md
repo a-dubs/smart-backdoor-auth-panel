@@ -1,6 +1,6 @@
 # Smart Backdoor Auth Panel
 
-3D-Printed access panel that will provide authentication for my custom smart deadbolt
+3D-Printed access panel that will provide authentication for my custom smart deadbolt using either RFID, fingerprints, or a keypad
 
 <br>
 
