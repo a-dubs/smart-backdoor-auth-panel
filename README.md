@@ -36,8 +36,7 @@
 
 ## Project Metadata
 
-**Project Status** : Active 
-**Project Progress** : In Progress
-
-**Project dates** : Nov '21 - Present  
+**Project Status** : Active  
+**Project Progress** : In Progress  
+**Project dates** : Nov '21 - Present    
 
