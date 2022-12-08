@@ -32,6 +32,7 @@
 ![3D Model of Auth Panel w/ Cover Closed](https://github.com/a-dubs/smart-backdoor-auth-panel/blob/master/image_gallery/v1/auth_panel_v1_closed.png)
 <br>
 
+<br>
 
 ## Project Metadata
 
